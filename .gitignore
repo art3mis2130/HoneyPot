@@ -1,0 +1,26 @@
+# Build output
+out/
+bin/
+build/
+target/
+*.class
+
+# Local editor settings
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Local credentials and captured traffic
+.env
+.env.*
+!.env.example
+*.log
+*.pcap
+*.pcapng
+
+# OS files
+.DS_Store
+Thumbs.db
